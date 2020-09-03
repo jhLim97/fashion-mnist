@@ -1,5 +1,7 @@
 # Fashion-MNIST
 
+http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/
+
 [![GitHub stars](https://img.shields.io/github/stars/zalandoresearch/fashion-mnist.svg?style=flat&label=Star)](https://github.com/zalandoresearch/fashion-mnist/)
 [![Gitter](https://badges.gitter.im/zalandoresearch/fashion-mnist.svg)](https://gitter.im/fashion-mnist/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 [![Readme-CN](https://img.shields.io/badge/README-中文-green.svg)](README.zh-CN.md)
